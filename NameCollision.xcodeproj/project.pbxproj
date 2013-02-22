@@ -18,6 +18,7 @@
 		3290D39316D7E38800F88A93 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3290D39216D7E38800F88A93 /* Default-568h@2x.png */; };
 		3290D39616D7E38800F88A93 /* NCViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3290D39516D7E38800F88A93 /* NCViewController.m */; };
 		3290D39916D7E38900F88A93 /* NCViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3290D39716D7E38800F88A93 /* NCViewController.xib */; };
+		3290D3A316D7E45400F88A93 /* asiainasia.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3290D3A216D7E45400F88A93 /* asiainasia.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		3290D39416D7E38800F88A93 /* NCViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NCViewController.h; sourceTree = "<group>"; };
 		3290D39516D7E38800F88A93 /* NCViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NCViewController.m; sourceTree = "<group>"; };
 		3290D39816D7E38900F88A93 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/NCViewController.xib; sourceTree = "<group>"; };
+		3290D3A216D7E45400F88A93 /* asiainasia.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = asiainasia.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +113,7 @@
 		3290D39F16D7E3F500F88A93 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				3290D3A216D7E45400F88A93 /* asiainasia.jpg */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -172,6 +175,7 @@
 				3290D39116D7E38800F88A93 /* Default@2x.png in Resources */,
 				3290D39316D7E38800F88A93 /* Default-568h@2x.png in Resources */,
 				3290D39916D7E38900F88A93 /* NCViewController.xib in Resources */,
+				3290D3A316D7E45400F88A93 /* asiainasia.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
